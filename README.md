@@ -3,11 +3,17 @@
 This Project generate pattern according to user inputs.
 
 EX.
+
 Upto - 2
+
 1
+
 11
+
 000
+
 0000
+
 00000
 
 ## Getting Started
